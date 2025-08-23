@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logos/Liverpool_TV.png" group-title="กีฬา",Liverpool TV
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 http://45.144.165.187:8080/playid168/12345/12251
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="กีฬา",MUTV
+http://panel.sulu1.cc:2052/travis1/travis1/1057
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logos/Real_Madrid_TV.png" group-title="กีฬา",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
