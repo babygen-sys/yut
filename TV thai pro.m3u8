@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",===ดิจิตอลทีวี===
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%84%E0%B8%A1
+
+#EXTINF:60 group-title="Digital ดิจิตอลทีวี",News1
+#EXTVLCOPT:network-caching=1000
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",THAI PBS HD
+#EXTVLCOPT:network-caching=1000
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH5 HD
+#EXTVLCOPT:network-caching=1000
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation TV
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Top News
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",GMM
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
+#EXTVLCOPT:network-caching=1000
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Mono 29
+#EXTVLCOPT:network-caching=1000
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT HD
+#EXTVLCOPT:network-caching=1000
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ONE31 HD
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7 HD
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV HD
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
+#EXTVLCOPT:network-caching=1000
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",VIPA
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Channel 8 THAILAND
+#EXTVLCOPT:network-caching=1000
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคกลาง
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคเหนือ
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคอีสาน
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคใต้
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",13สยามไท
+#EXTVLCOPT:network-caching=1000
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPTV
+#EXTVLCOPT:network-caching=1000
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Rama Channel
+#EXTVLCOPT:network-caching=1000
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Dopa Channel
+#EXTVLCOPT:network-caching=1000
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี", Zee Nung
+#EXTVLCOPT:network-caching=1000
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Suwannabhumi Channel
+#EXTVLCOPT:network-caching=1000
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Police TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Cable Channel 37
+#EXTVLCOPT:network-caching=1000
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Siamnews
+#EXTVLCOPT:network-caching=1000
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thainews
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",มวลชนทีวี
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี", บ้านบ้านทีวี
+#EXTVLCOPT:network-caching=1000
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation22
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thairath TV
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",AmarinTV
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",True24
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Mono 29
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH 8
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TOPNEW
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NEW1
+#EXTVLCOPT:network-caching=1000
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH3
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1,<=== การ์ตูน ====>
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",มิสเตอร์บีน
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+#EXTINF:30,Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeonhttp://panel.sulu1.cc:2052/travis1/travis1/3237
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
+http://panel.sulu1.cc:2052/travis1/travis1/3234
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
+http://panel.sulu1.cc:2052/travis1/travis1/1125
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
+http://212.102.60.231/DISNEY/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
+http://116.90.120.149:8000/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney International 
+https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cinebox: Animation
+http://1tv41.icu:8080/ahx4CN/815233/119420
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/90039
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
+http://panel.sulu1.cc:2052/travis1/travis1/90040
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 3
+http://panel.sulu1.cc:2052/travis1/travis1/90041
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 4
+http://panel.sulu1.cc:2052/travis1/travis1/90042
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 5
+http://panel.sulu1.cc:2052/travis1/travis1/90043
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 6
+http://panel.sulu1.cc:2052/travis1/travis1/90044
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 7
+http://panel.sulu1.cc:2052/travis1/travis1/90045
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 8
+http://panel.sulu1.cc:2052/travis1/travis1/90046
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 9
+http://panel.sulu1.cc:2052/travis1/travis1/90047
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 10
+http://panel.sulu1.cc:2052/travis1/travis1/90048
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 11
+http://panel.sulu1.cc:2052/travis1/travis1/90049
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 12
+http://panel.sulu1.cc:2052/travis1/travis1/90050
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 13
+http://panel.sulu1.cc:2052/travis1/travis1/90051
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 14
+http://panel.sulu1.cc:2052/travis1/travis1/90052
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 15
+http://panel.sulu1.cc:2052/travis1/travis1/90053
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 16
+http://panel.sulu1.cc:2052/travis1/travis1/90054
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 17
+http://panel.sulu1.cc:2052/travis1/travis1/90055
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 18
+http://panel.sulu1.cc:2052/travis1/travis1/90056
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 19
+http://panel.sulu1.cc:2052/travis1/travis1/90057
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 20
+http://panel.sulu1.cc:2052/travis1/travis1/90058
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 1
+http://panel.sulu1.cc:2052/travis1/travis1/90059
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 2
+http://panel.sulu1.cc:2052/travis1/travis1/90060
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 3
+http://panel.sulu1.cc:2052/travis1/travis1/90061
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 4
+http://panel.sulu1.cc:2052/travis1/travis1/90062
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 5
+http://panel.sulu1.cc:2052/travis1/travis1/90063
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 1
+http://panel.sulu1.cc:2052/travis1/travis1/90064
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 2
+http://panel.sulu1.cc:2052/travis1/travis1/90065
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 3
+http://panel.sulu1.cc:2052/travis1/travis1/90066
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 4
+http://panel.sulu1.cc:2052/travis1/travis1/90067
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 5
+http://panel.sulu1.cc:2052/travis1/travis1/90068
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 6
+http://panel.sulu1.cc:2052/travis1/travis1/90069
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 7
+http://panel.sulu1.cc:2052/travis1/travis1/90070
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 8
+http://panel.sulu1.cc:2052/travis1/travis1/90071
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 1
+http://panel.sulu1.cc:2052/travis1/travis1/90072
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 2
+http://panel.sulu1.cc:2052/travis1/travis1/90073
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 3
+http://panel.sulu1.cc:2052/travis1/travis1/90074
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 4
+http://panel.sulu1.cc:2052/travis1/travis1/90075
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 5
+http://panel.sulu1.cc:2052/travis1/travis1/90076
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 6
+http://panel.sulu1.cc:2052/travis1/travis1/90077
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 7
+http://panel.sulu1.cc:2052/travis1/travis1/90078
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 8
+http://panel.sulu1.cc:2052/travis1/travis1/90079
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 9
+http://panel.sulu1.cc:2052/travis1/travis1/90080
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 10
+http://panel.sulu1.cc:2052/travis1/travis1/90081
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 11
+http://panel.sulu1.cc:2052/travis1/travis1/90082
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
+http://panel.sulu1.cc:2052/travis1/travis1/90083
+
+#EXTINF:-1,<==== entertainment ====>
+file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
+#EXTINF:0,HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+#EXTINF:0,HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+#EXTINF:0,HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
+http://xxip25.top:8080/n7NX45/216258/57437
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 ca
+http://xxip25.top:8080/n7NX45/216258/57438
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
+http://xxip25.top:8080/n7NX45/216258/46713
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
+http://xxip25.top:8080/n7NX45/216258/9264
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 us
+http://xxip25.top:8080/n7NX45/216258/9816
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy (East) us 
+http://xxip25.top:8080/n7NX45/216258/17773
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family (East) us
+http://xxip25.top:8080/n7NX45/216258/17772
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE (East) us
+http://xxip25.top:8080/n7NX45/216258/9266
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone (East) us
+http://xxip25.top:8080/n7NX45/216258/9265
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HD br
+http://xxip25.top:8080/n7NX45/216258/164950
+
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="Entertainment บันเทิง",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1,<===เพลง====>
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Retro Rock
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo R&B
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo True School Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Country
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV BIGGEST POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV SPANKIN NEW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV ROCKS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV FLOW LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV 90's
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV Live HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Show Champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 group-title="Entertainment บันเทิง",Trace UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",YG TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
+#EXTINF:-1 group-title="Entertainment บันเทิง",new K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1,<=== สารคดี ====>
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",History
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",Animal
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
+http://49.0.64.96:8007/WSCI
+
+
+#EXTINF:-1,<=== NEWS ===>
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="News ข่าว",EuronNews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 group-title="News ข่าว",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC World
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+#EXTINF:-1,<===ช่องกีฬาทั่วไป===>
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",Strongman Champions League
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="Sports กีฬา",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",2TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
+#EXTINF:-1 group-title="Sports กีฬา",One Soccer
+http://nocable.cc:8080/2gKWFe/362900/135810
+#EXTINF:-1 group-title="Sports กีฬา",Sportdigital Fussball
+https://a1xs.vip/120001
+#EXTINF:-1 group-title="Sports กีฬา",DSports Plus
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
+#EXTINF:-1 group-title="Sports กีฬา",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",TRT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#EXTINF:-1 group-title="Sports กีฬา",Rai Ssport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="Sports กีฬา",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Aspor
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
+#EXTINF:-1 group-title="Sports กีฬา",Kozoom
+https://tinyurl.com/3ted8am7
+#EXTINF:-1 group-title="Sports กีฬา",World Poker Tour
+https://tinyurl.com/ymt52m6r
+#EXTINF:-1 group-title="Sports กีฬา",FTF Sports
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",World of Free Sports
+https://shorturl.asia/8LUnO
+#EXTINF:-1 group-title="Sports กีฬา",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Pac12 insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",MAVTV
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",NHRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
+#EXTINF:-1 group-title="Sports กีฬา",Motorsport tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",MTRSPT 1
+https://tinyurl.com/bdhme28r
+#EXTINF:-1 group-title="Sports กีฬา",BIKE Channel
+https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Billiard TV 🇺🇸 🟤
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Billiard TV ² 🇺🇸 🟤
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Fishing TV
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",WIRED 2 FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
