@@ -43,10 +43,7 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV HD
 #EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
-#EXTVLCOPT:network-caching=1000
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
 #EXTVLCOPT:network-caching=1000
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
@@ -58,6 +55,9 @@ https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/
 #EXTVLCOPT:network-caching=1000
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคกลาง
 #EXTVLCOPT:network-caching=1000
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
@@ -140,13 +140,45 @@ https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
-
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
 
 #EXTINF:-1,<===ช่องกีฬาทั่วไป===>
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
