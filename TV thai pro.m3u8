@@ -3,11 +3,19 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302696.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/
+#EXTVLCOPT:http-reconnect=true
+
+#EXTVLCOPT:alternate-url=https://p1.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p0.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p2.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p3.cdn.vet/live/ch3/i/ch3i.m3u8
+
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOTU0YTY1ODc5NjI0NDg1YWQ4ZgNGM1OGU2MmMyMWRmM2Mz
+
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -66,7 +74,6 @@ http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=4944
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
 
 
-
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
 
@@ -75,6 +82,8 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png" group-title="🇹🇭 THAILAND",Chiangrai Channel
@@ -123,7 +132,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-
 #EXTINF:-1,<===ช่องต่างประเทศ===>
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -140,8 +148,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",LaLiga TV 2 por Movistar Plus
 http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",One Soccer
-http://nocable.cc:8080/2gKWFe/362900/135810
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Sportdigital Fussball
 https://a1xs.vip/120001
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",DSports Plus
@@ -158,8 +165,7 @@ http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",Aspor
-http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Kozoom
 https://tinyurl.com/3ted8am7
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",World Poker Tour
@@ -184,8 +190,7 @@ https://tinyurl.com/bdhme28r
 https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV 🇺🇸 🟤
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV ² 🇺🇸 🟤
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Fishing TV
@@ -197,6 +202,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",JUST FISHING
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
 
 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
@@ -554,33 +560,3 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="ทีวีต่างประเทศ",Yes Network
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)" group-title="ทีวีต่างประเทศ",Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)
-https://tvpass.org/live/NBA24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ New York Knicks (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Miami Heat @ New York Knicks (11/14 7:10 PM ET)
-https://tvpass.org/live/NBA10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)" group-title="ทีวีต่างประเทศ",Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA13/sd
-#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA12/sd
-#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)
-https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)
-https://tvpass.org/live/NBA28/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)" group-title="ทีวีต่างประเทศ",Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)" group-title="ทีวีต่างประเทศ",New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)" group-title="ทีวีต่างประเทศ",Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)
-https://tvpass.org/live/NBA11/sd
