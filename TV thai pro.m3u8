@@ -5,16 +5,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.adintrend.tv/
-#EXTVLCOPT:http-reconnect=true
-
-#EXTVLCOPT:alternate-url=https://p1.cdn.vet/live/ch3/i/ch3i.m3u8
-#EXTVLCOPT:alternate-url=https://p0.cdn.vet/live/ch3/i/ch3i.m3u8
-#EXTVLCOPT:alternate-url=https://p2.cdn.vet/live/ch3/i/ch3i.m3u8
-#EXTVLCOPT:alternate-url=https://p3.cdn.vet/live/ch3/i/ch3i.m3u8
-
-https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOTU0YTY1ODc5NjI0NDg1YWQ4ZgNGM1OGU2MmMyMWRmM2Mz
+http://www.alhaiba.com/6V1N24N/LE49Y1F/1097278
 
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
@@ -25,6 +16,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/1097235
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
@@ -51,9 +43,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/8669.m3u8
-http://otv.to:8080/ayaaz/ayaz11/354577
+http://www.alhaiba.com/6V1N24N/LE49Y1F/1097262
 
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
@@ -128,7 +120,6 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="🇹🇭 THAILAND",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-
 
 
 
