@@ -1,0 +1,804 @@
+#EXTM3U
+#EXTINF:-1,===ดิจิตอลทีวี===
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
+https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 สำรอง
+https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="🇹🇭 THAILAND",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="🇹🇭 THAILAND",Ch8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/nLfbZvzV/IMG-2399.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/xTN4CcBX/IMG-2401.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/fTY1CVC6/IMG-2403.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/5t2GfnJV/IMG-2405.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="🇹🇭 THAILAND",Mono 29 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนังพากย์ไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="🇹🇭 THAILAND",Amarin TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
+https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7
+http://119.59.118.159/live/ch78/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
+https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="🇹🇭 THAILAND",Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="🇹🇭 THAILAND",Nation TV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
+http://119.59.118.159/live/ch79/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 สำรอง
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
+
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
+https://server1.streamssl.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="🇹🇭 THAILAND",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Cable.us" tvg-logo="https://i.postimg.cc/d1k9hNx8/IMG-2059.png" group-title="🇹🇭 THAILAND",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/fLYkGVG6/IMG-2587.png" group-title="🇹🇭 THAILAND",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/65j5TRMw/IMG-1869.png" group-title="🇹🇭 THAILAND",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rchannel.th" tvg-logo="https://i.postimg.cc/qBwcfM7K/IMG-2841.png" group-title="🇹🇭 THAILAND",R-Channel
+http://180.180.243.239/streams/3/hls
+
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/mkbSf47L/IMG-1917.png" group-title="🇹🇭 THAILAND",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/XvRdfCLB/IMG-1916.png" group-title="🇹🇭 THAILAND",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/KzjwMC98/IMG-1918.png" group-title="🇹🇭 THAILAND",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/SRFK1LYC/IMG-1919.png" group-title="🇹🇭 THAILAND",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/15VHqysd/IMG-1920.png" group-title="🇹🇭 THAILAND",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/3w8mnhQY/IMG-1921.png" group-title="🇹🇭 THAILAND",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/VLtTnx8K/IMG-1922.png" group-title="🇹🇭 THAILAND",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/pT9kxjVs/IMG-1923.png" group-title="🇹🇭 THAILAND",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/FFy3Sp6j/IMG-1924.png" group-title="🇹🇭 THAILAND",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/43cmgNkz/IMG-1925.png" group-title="🇹🇭 THAILAND",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/DZ2FM22f/IMG-1926.png" group-title="🇹🇭 THAILAND",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/1zRsWmRm/IMG-1927.png" group-title="🇹🇭 THAILAND",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/Gh0RWJ3S/IMG-1928.png" group-title="🇹🇭 THAILAND",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/vTYrT6GR/IMG-1929.png" group-title="🇹🇭 THAILAND",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="🇹🇭 THAILAND",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+
+
+
+<==== entertainment ====>
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="Entertainment บันเทิง",Mr.Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://shorturl.asia/jAf5V
+
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="Entertainment บันเทิง",Amazing Show
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="Entertainment บันเทิง",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="Entertainment บันเทิง",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="Entertainment บันเทิง",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUU7vsA.jpg" group-title="Entertainment บันเทิง",CINEMAX
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmMBqEP.jpg" group-title="Entertainment บันเทิง",WARNER TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="Entertainment บันเทิง",HITS ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="Entertainment บันเทิง",HITS MOVIEs
+http://66.90.99.154:8278/Hitsmovie/playlist.m3u8?tid=MA1A9603668296036682&ct=20364&tsum=1119b3d05ef4966ee0f5910f3084c11c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title="Entertainment บันเทิง", thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",TVN
+http://66.90.99.154:8278/TVN/playlist.m3u8?tid=MF9F7266326972663269&ct=20364&tsum=0abc5dbe241029feb040c0d6309d3c75
+
+
+
+
+
+
+
+<==== การ์ตูน ====>
+
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w294072949.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="Cartoon การ์ตูน",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+<=== Documentary สารคดี ====>
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="Documentary สารคดี",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Documentary สารคดี",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Documentary สารคดี",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel (US) 
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel
+http://103.66.62.83:8000/play/a030/index.m3u8
+
+#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1  group-title="Documentary สารคดี",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
+#EXTINF:-1, group-title="Documentary สารคดี",HISTORY 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel 
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic 
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+
+
+
+
+<==== NEWS ====>
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+
+#EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",EuronNews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNBC World
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+
+
+
+
+
+
+<==== MV-MUSIC ====>
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="MUSIC",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="MUSIC",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="MUSIC",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="MUSIC",XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="MUSIC",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="MUSIC",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="MUSIC",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="MUSIC",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="MUSIC",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSIC",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIC",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="MUSIC",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" group-title="MUSIC",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="MUSIC",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="MUSIC",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="MUSIC",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="MUSIC",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" group-title="MUSIC",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Seagames",SEA Games live  1
+
+#EXTINF:-1 group-title="Seagames",SEA Games live  2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 (seagames 2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 (seagames 2025)สำรอง
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/index.m3u8
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena1 (seagames 2025)
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2 (seagames 2025)
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title="Seagames",Sukan TV (seagames 2025)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" group-title="Seagames",OKEY TV (seagames 2025)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1,<=== Boxing/Wrestling ===>
+http://tvmate.icu:8080/69NpyV/884735/11645
+
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
+http://fortv.cc:8080/0n8u9R/169324/11645
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Special sports",WWE Channel
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://tvmate.icu:8080/69NpyV/884735/11645
+
+#EXTINF:-1 group-title="Special sports",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
+#EXTINF:-1 group-title="Special sports",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+
+#EXTINF:-1 group-title="Special sports",MMA PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Special sports",United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+
+#EXTINF:-1 group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+#EXTINF:-1 group-title="Special sports",HIFIGHT
+http://49.0.64.96:8007/HIFIGHT
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
+http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
+http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="Special sports",Hi Sport
+http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="" group-title="Special sports",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="" group-title="Special sports",FanDuel TV 
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="Special sports",Racing 240
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
+#EXTVLCOPT:network-caching=1000
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="Special sports",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="Special sports",BILLIYARD TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="Special sports",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="Special sports",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="Special sports",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIh6Tkb.jpg" group-title="Special sports",PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
+http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl2.png" group-title="Special sports",Astro EPL 3
+http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB3B1676208416762084&ct=20361&tsum=fa16fb18b448b79ae637d066bf01e3e3
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl3.png" group-title="Special sports",Astro EPL 3
+http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB9B4541992145419921&ct=20361&tsum=5da45c64568fe306aff937e521cee75a
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.us" tvg-logo="https://i.postimg.cc/d14MK3D5/IMG-2486.png" group-title="Special sports",NBA
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
+http://145.239.5.177/529/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title="Special sports",Eurosport 2 
+http://145.239.5.177/530/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/503
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="Special sports",ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="Special sports",ESPN 3 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
+
+
+
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Special sports", SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Special sports", SPOTV 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+
+#EXTINF:-1 group-title="Special sports",Sky Sport Premier
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
+
+#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" group-title="Special sports" radio="false",Sky Sport PL NZ
+https://a1xs.vip/700008
+
+#EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports", FSBL sports
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
+
+
+#EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
+
+#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+
+#EXTINF:-1  tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Special sports",Hub Premier 1
+
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="Special sports" radio="false",Hub Premier 2 
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NfVgmxyM/IMG-3779.png" group-title="Special sports",Hub Premier 3
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NGZ0djCv/IMG-4155.png" group-title="Special sports",Hub Premier 4
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Special sports",Hub Premier 5
+
+
+
+#EXTINF:-1 group-title="Special sports",BEiN SPORT HABER HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+#EXTINF:-1 group-title="Special sports",BEIN SPORTS MAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111909
+
+#EXTINF:-1 group-title="Special sports",BEIN SPORTS MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111911
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 1 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 2 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 3 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 4 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111905
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 5 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111907
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6 
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 7 
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 8 
+
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 9 
+
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Special sports",Sport-tv 1
+http://fortv.cc:8080/0n8u9R/169324/167742
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Special sports",Sport-tv 2
+https://stream1.freetv.fun/sport-tv2-1.ctv
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Special sports",Sport-tv 3
+http://fortv.cc:8080/0n8u9R/169324/167744
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Special sports",Sport-tv 4
+https://stream1.freetv.fun/sport-tv4-1.ctv
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 3 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 5 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98870
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports,STAR SPORTS 1 HINDI 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS SELECT 1 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",START SPORTS SELECT 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
+
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave04.appball.vip/hls/A5txwJ2ajfn6J2rcSQkO8Q/1766932345/mono4.m3u8
+
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave01.appball.vip/hls/LcvQFAj_mit4M6ofi2Zl5w/1766932397/epl4.m3u8
