@@ -1,0 +1,402 @@
+#EXTM3U
+
+#EXTINF:-1, HBO ตัวเต้ม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjYsIDY6NTg6MDcgQU0maGFzaF92YWx1ZT1vcnFBa3V2NlBBcWRURnNnYU5LcGd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9Mzk2ZDRkMWZlOGM1NzE2YzA5YWFhZWNlMGE2YmMyNjQmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
+
+
+
+#EXTINF:-1, HBO referre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo/chunks.m3u8
+
+
+#EXTINF:-1, HBO licensekey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://licensekey.dookeela4.live
+https://live2.stream.liveplayback.net/dookeela/hbo/chunks.m3u8
+
+
+=============================================
+
+#EXTINF:-1, 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+
+
+===========================================
+
+Dookeela รอดูลิงค์ 
+LICENSE_KEY_ENDPOINT: "https://licensekey.dookeela4.live"
+ 
+
+
+
+
+
+#EXTINF:-1, TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tnn/chunks.m3u8
+
+
+
+บันเทิง
+
+
+#EXTINF:-1, HBO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo/chunks.m3u8
+
+#EXTINF:-1, HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8
+
+
+
+#EXTINF:-1, HBO family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo-family/chunks.m3u8
+
+
+
+#EXTINF:-1, HBO HIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo-hits/chunks.m3u8
+
+#EXTINF:-1, HBO signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/hbo-signature/chunks.m3u8
+
+#EXTINF:-1, HBO signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-signature/chunks.m3u8
+
+
+#EXTINF:-1, Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/cinemax/chunks.m3u8
+
+#EXTINF:-1, Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/cinemax/chunks.m3u8
+
+
+#EXTINF:-1, ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/rock-action/chunks.m3u8
+
+#EXTINF:-1, ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/rock-entertainment/chunks.m3u8
+
+
+#EXTINF:-1, AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/axn/chunks.m3u8
+
+
+
+#EXTINF:-1, True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/truefilm1/chunks.m3u8
+
+#EXTINF:-1, True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/truefilm1/chunks.m3u8
+
+#EXTINF:-1, True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/truefilm2/chunks.m3u8
+
+#EXTINF:-1, True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/truefilmasia/chunks.m3u8
+
+#EXTINF:-1, True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/truemoviehits/chunks.m3u8
+
+#EXTINF:-1, True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/truethaifilm/chunks.m3u8
+
+#EXTINF:-1, Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/warnertv/chunks.m3u8
+
+#EXTINF:-1, CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/ccm/chunks.m3u8
+
+#EXTINF:-1, Asian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/3bbasian/chunks.m3u8
+
+===============================================
+
+
+FOOD
+
+#EXTINF:-1, Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/afn/chunks.m3u8
+
+
+#EXTINF:-1, KBS Korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/kbskorea/chunks.m3u8
+
+=============================================
+
+กีฬา
+
+#EXTINF:-1, Astro Badminton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/astrobadminton/chunks.m3u8
+
+
+#EXTINF:-1, NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/nba/chunks.m3u8
+
+#EXTINF:-1, PLAY SPORTS 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/playsports53/chunks.m3u8
+
+#EXTINF:-1, PLAY SPORTS 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/playsports53/chunks.m3u8
+
+
+#EXTINF:-1, PLAY SPORTS 61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/playsports61/chunks.m3u8
+
+#EXTINF:-1, PLAY SPORTS 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/playsports66/chunks.m3u8
+
+#EXTINF:-1, PLAY SPORTS 69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/playsports69/chunks.m3u8
+
+#EXTINF:-1, PLAY SPORTS 71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/playsports71/chunks.m3u8
+
+
+#EXTINF:-1, TV OKEY | Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/tvokey/chunks.m3u8
+
+
+
+#EXTINF:-1, True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tpf3/chunks.m3u8
+
+#EXTINF:-1, True Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tpf4/chunks.m3u8
+
+#EXTINF:-1, True Premier Football 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tpf5/chunks.m3u8
+
+#EXTINF:-1, True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/truetennis/chunks.m3u8
+
+
+
+#EXTINF:-1, truesports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/tsp1/chunks.m3u8
+
+#EXTINF:-1, truesports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tsp2/chunks.m3u8
+
+#EXTINF:-1, truesports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tsp3/chunks.m3u8
+
+#EXTINF:-1, truesports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+
+#EXTINF:-1, truesports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/tsp5/chunks.m3u8
+
+#EXTINF:-1, truesports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tsp7/chunks.m3u8
+
+
+
+=============================================
+
+
+สารคดี
+
+#EXTINF:-1, Animal Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/animalshow/chunks.m3u8
+
+
+#EXTINF:-1, BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/bbc-earth/chunks.m3u8
+
+#EXTINF:-1, Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/discovery/chunks.m3u8
+
+#EXTINF:-1, Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/discovery-asia/playlist.m3u8
+
+
+#EXTINF:-1, History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/history/chunks.m3u8
+
+#EXTINF:-1, สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/samrujlok/chunks.m3u8
+
+
+
+#EXTINF:-1, 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/trueexplorelife/chunks.m3u8
+
+#EXTINF:-1, 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/trueexplorelife/playlist.m3u8
+
+#EXTINF:-1, 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/trueexploresci/playlist.m3u8
+
+#EXTINF:-1, 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/trueexplorewild/playlist.m3u8
+
+
+==========================================
+
+
+#EXTINF:-1, Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/cartoon-network/chunks.m3u8
+
+
+#EXTINF:-1, Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/disney-channel/chunks.m3u8
+
+#EXTINF:-1, Moonbug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/moonbug/chunks.m3u8
+
+#EXTINF:-1, Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/nickjr/chunks.m3u8
+
+#EXTINF:-1, Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/nickelodeon/chunks.m3u8=
+
+#EXTINF:-1, nicktoons 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/nicktoons/chunks.m3u8
+
+
+#EXTINF:-1, cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/cartoonito/chunks.m3u8
+
+
+=============================================
+
+
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push(["object" == typeof document ? document.currentScript : void 0, 96195, e => {
+    "use strict";
+    e.s(["default", 0, {
+        BASE_URL: "https://liveplayback.net/api/",
+        CH_LOGO_URL: "https://dookeela4.live/uploads/",
+        CHAT_SERVER: "wss://pubsub.anywebtorrent.com",
+        STREAM_URL: ["https://dkl-o53d.cdn.akamaiz.com/dookeela/", "https://live2.stream.liveplayback.net/dookeela/"],
+        STREAM_URL_AIS: ["https://uc-edge-2.stream.liveplayback.net/dookeela/"],
+        STREAM_URL_CF: ["https://aisth.online/dookeela/", "https://stereomax.shop/dookeela/", "https://dkl-1.shop/dookeela/"],
+        STREAM_URL_AWS: ["https://cloudfront.aisth.online/dookeela/", "https://cf-1.stereomax.shop/dookeela/"],
+        P2P_TRACKER: ["wss://tracker.anywebtorrent.com"],
+        VIEW_COUNT_ENDPOINT: "https://stats.dookeela4.live/viewer-count",
+        LICENSE_KEY_ENDPOINT: "https://licensekey.dookeela4.live"
+
+
+
+
+
